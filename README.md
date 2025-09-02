@@ -38,3 +38,11 @@ I'm a passionate **Frontend Developer** and **WordPress Developer** based in Kol
 
 ---
 *Thanks for visiting! Let's collaborate on something amazing! ✨*
+
+## 🐍 Watch the Snake Eat My Contributions!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Up9777/Up9777/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Up9777/Up9777/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Up9777/Up9777/output/github-contribution-grid-snake.svg">
+</picture>
