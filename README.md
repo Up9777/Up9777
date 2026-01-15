@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Utkarsh Patil!
 
-I'm a passionate **Frontend Developer** and **WordPress Developer** based in Kolhapur, specializing in JavaScript, React, and event management systems. I love building user-friendly interfaces and exploring innovative projects! 🚀
+I'm a passionate **Backend Developer** and **WordPress Developer** based in Kolhapur, specializing in JavaScript, React, and event management systems. I love building user-friendly interfaces and exploring innovative projects! 🚀
 
 ---
 
 ## 🛠️ Skills & Technologies
 - **Languages**: JavaScript ⚡, Java , Dart 🐦 , HTML , CSS
-- **Frameworks**: React ⚛️,NodeJS ,MongoDB, WordPress, Flutter
+- **Frameworks**: NestJS,React ⚛️,NodeJS ,MongoDB, WordPress, Flutter
 - **Tools**: Git, VS Code, OpenCV
 - **Other**: Event Management, UI/UX Design
 
